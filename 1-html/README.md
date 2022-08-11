@@ -1,4 +1,5 @@
--- vue.js 사용사례
+
+## 채용 공고 분석
 1. jobkorea
 - react vs vue
 - react native
@@ -11,12 +12,12 @@
 - react, react native
 - flutter
 
-3. google trends 및 npm trends
-- 국내기준 2019년 하반기 react hook 사용 활성화 시점에서 react가 우세함.
-- 국내기준 2021년 하반기부터 next.js 사용 활성화 이후 react가 크게 우세해짐
+## 검색 및 패키지 사용 트렌드 분석
+- google trends 및 npm trends 기준
+- 국내기준 2019년 하반기 react hook 사용 활성화 시점에서 react가 우세함. (vue는 2.x 버전)
+- 국내기준 2021년 하반기부터 next.js 사용 활성화 이후 react가 크게 우세해짐 (vue는 3.x 버전)
 
-
-4. vue.js 사용사례
+## 사용 사례
 - 네이버 카페
 - 네이버 바이브
 - 다음 카페
