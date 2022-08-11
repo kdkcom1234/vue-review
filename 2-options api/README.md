@@ -13,7 +13,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 - react native
 - web 5:4
   - 삼성계열사, 판교쪽회사들, 금융쪽, java/vue 풀스택
-  - 웹 중심사업, 고전적인 개발, 특정 회사벤더 의존성 낮은 것을 선호
+  - 웹 중심사업, 고전적인 사업, 특정 회사벤더 의존성 낮은 것을 선호
 
 2. 사용사례
 - 네이버 카페
