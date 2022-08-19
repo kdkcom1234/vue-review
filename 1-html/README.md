@@ -25,6 +25,7 @@
   - composition api
 - 카카오뱅크
  - https://kr.linkedin.com/in/taehoon-song-44912a169
+- 클레이스왑
 - Snapshot(블록체인 커뮤니티 proposal/voting)
  - https://github.com/snapshot-labs/snapshot
  - https://snapshot.org/#/
