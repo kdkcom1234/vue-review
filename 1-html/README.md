@@ -27,8 +27,8 @@
  - https://kr.linkedin.com/in/taehoon-song-44912a169
 - 클레이스왑
 - Snapshot(블록체인 커뮤니티 proposal/voting)
- - https://github.com/snapshot-labs/snapshot
- - https://snapshot.org/#/
+  -  https://github.com/snapshot-labs/snapshot
+  -  https://snapshot.org/#/
 - Project Galaxy(블록체인 캠페인 및 리워드)
   - https://galaxy.eco/campaigns
 - Gitlab
