@@ -29,5 +29,7 @@
 - Snapshot(블록체인 커뮤니티 proposal/voting)
  - https://github.com/snapshot-labs/snapshot
  - https://snapshot.org/#/
+- Project Galaxy(블록체인 캠페인 및 리워드)
+  - https://galaxy.eco/campaigns
 - Gitlab
  - https://docs.gitlab.com/ee/development/fe_guide/vue3_migration.html
