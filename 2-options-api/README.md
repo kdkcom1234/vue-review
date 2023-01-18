@@ -8,7 +8,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 --- 프로젝트
 
-1. vite에 vue-ts 템플릿으로 프로젝트 생성
+1. vite에 vue 템플릿으로 프로젝트 생성
 
 - https://vitejs.dev/guide/#scaffolding-your-first-vite-project
 - yarn create vite my-vue-app --template vue

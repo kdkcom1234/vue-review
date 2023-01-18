@@ -13,8 +13,8 @@ TypeScript cannot handle type information for `.vue` imports by default, so we r
 If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
 
 1. Disable the built-in TypeScript Extension
-    1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-    2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
+   1. Run `Extensions: Show Built-in Extensions` from VSCode's command palette
+   2. Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
 2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
 
 ## Customize configuration
@@ -39,17 +39,20 @@ npm run dev
 npm run build
 ```
 
+--- 프로젝트
 
---- 프로젝트 
-1. create-vue로 프로젝트 생성
-- https://vuejs.org/guide/quick-start.html
-```sh
-npm init vue@latest
+1. vite에 vue 템플릿으로 프로젝트 생성
+
+- https://vitejs.dev/guide/#scaffolding-your-first-vite-project
+- yarn create vite my-vue-app --template vue
+
 ```
 
 2. composition api 및 ts 사용
 ```
-script setup lang="ts" 
+
+script setup lang="ts"
+
 ```
 
 3. ref와 reactive
@@ -67,3 +70,4 @@ script setup lang="ts"
 - emit
     - defineEmits
     - @이벤트명
+```
