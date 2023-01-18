@@ -37,18 +37,23 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 - https://vuejs.org/guide/essentials/reactivity-fundamentals.html
 - https://vuejs.org/guide/extras/reactivity-in-depth.html#what-is-reactivity
+
 - 객체 proxy를 이용하여 속성값을 set할 때 추가적인 처리를 함
 
 6. Form Input Bindings
+   https://vuejs.org/guide/essentials/forms.html
 
 - v-model 양방향 바인딩, v-bind 단방향 바인딩
 - input :value
 - input v-model
 
 7. List Rendering
+   https://vuejs.org/guide/essentials/list.html
 
-- v-for="item of collections"
+- v-for="item in collections"
+- v-for="(value, key) in myObject">
 
 8. Conditional Rendering
+   https://vuejs.org/guide/essentials/conditional.html
 
 - v-if, v-show
