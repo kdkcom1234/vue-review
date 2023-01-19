@@ -45,11 +45,13 @@ export default {
   </ul>
 
   <h2>Conditional Rendering</h2>
-  <button @click="added2 = !added2 ? 'aa' : ''">toggle</button>
+  <button class="btn" @click="added2 = !added2 ? 'aa' : ''">toggle</button>
   <div v-if="added2">토글 패널</div>
 
 </template>
 
 <style scoped>
-
+.btn {
+  background-color: green;
+}
 </style>
