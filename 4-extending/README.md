@@ -190,4 +190,21 @@ const counter = useCounterStore();
     </div>
   </div>
 </template>
+
+// 상태변경
+<script setup lang="ts">
+const counter = useCounterStore();
+</script>
+
+<template>
+  <div>
+    <header>
+        <button @click="counter.increment()">increment</button>
+    </header>
+    <main>
+
+      <router-view />
+    </main>
+  </div>
+</template>
 ```
