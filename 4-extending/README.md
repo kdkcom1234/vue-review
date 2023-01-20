@@ -190,7 +190,9 @@ const counter = useCounterStore();
     </div>
   </div>
 </template>
+```
 
+```ts
 // 상태변경
 <script setup lang="ts">
 const counter = useCounterStore();
